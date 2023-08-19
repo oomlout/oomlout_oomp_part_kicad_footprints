@@ -1,6 +1,6 @@
 (footprint "NetTie-2_SMD_Pad0.5mm" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 64e08c66)
+  (tedit 64e09525)
   (descr "Net tie, 2 pin, 0.5mm square SMD pads")
   (tags "net tie")
   (attr exclude_from_pos_files exclude_from_bom)
