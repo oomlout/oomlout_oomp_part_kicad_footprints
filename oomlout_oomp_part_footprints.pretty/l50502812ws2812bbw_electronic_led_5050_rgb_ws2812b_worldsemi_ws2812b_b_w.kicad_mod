@@ -1,6 +1,6 @@
 (footprint "LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 651409f6)
+  (tedit 65140ccc)
   (descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
   (tags "LED RGB NeoPixel PLCC-4 5050")
   (attr smd)
