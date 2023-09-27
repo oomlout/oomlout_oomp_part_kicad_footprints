@@ -1,6 +1,6 @@
 (footprint "NetTie-2_THT_Pad0.3mm" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6514305d)
+  (tedit 65148bca)
   (descr "Net tie, 2 pin, 0.3mm round THT pads")
   (tags "net tie")
   (attr exclude_from_pos_files exclude_from_bom)
