@@ -1,9 +1,10 @@
 (footprint "NetTie-3_SMD_Pad0.5mm" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6522e414)
+  (tedit 653599a9)
   (descr "Net tie, 3 pin, 0.5mm square SMD pads")
   (tags "net tie")
-  (attr exclude_from_pos_files exclude_from_bom)
+  (attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
+  (net_tie_pad_groups "1, 2, 3")
   (fp_text reference "REF**" (at 0 -1.2) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp cd81481d-6e33-42fe-8db9-c5e4916c2fd4)
