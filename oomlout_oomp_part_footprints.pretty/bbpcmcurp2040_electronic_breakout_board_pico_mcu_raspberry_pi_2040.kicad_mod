@@ -1,6 +1,6 @@
 (footprint "oomp_template_electronic_breakout_board_pico_mcu_raspberry_pi_2040" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 655b8aeb)
+  (tedit 6568c09a)
   (attr smd)
   (fp_text reference "REF**" (at 8.89 -6.35 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.1)))
